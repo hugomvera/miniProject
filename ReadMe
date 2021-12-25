@@ -1,0 +1,5 @@
+This program will generate a random password
+need to input in for user name and website
+the output will be the password
+
+libraries used where random to get a random letters and special characters
